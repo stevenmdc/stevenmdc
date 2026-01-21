@@ -4,7 +4,10 @@
 
 <p align="center">
   <a href="https://3dprint-ste.com" target="_blank">
-    <img src="https://img.shields.io/badge/SaaS-3D_Print_Ste-ff6b35?style=for-the-badge&logo=shopify&logoColor=white" alt="3D Print Ste SaaS"/>
+    <img src="https://img.shields.io/badge/SaaS-3D_Print_Ste-ff6b35?style=for-the-badge&logoColor=white" alt="3D Print Ste SaaS"/>
+  </a>
+  <a href="https://shop.3dprint-ste.com" target="_blank">
+    <img src="https://img.shields.io/badge/Shop-3D_Print_Ste-ff6b35?style=logo=shopify&logoColor=green" alt="3D Print Ste Shop"/>
   </a>
   <a href="https://next-noir-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -16,12 +19,13 @@
 
 ---
 
-- 🔧 **Design Software** : **Fusion 360**, **Nomad Sculpt**  
-- 💻 **Dev Stack** : Next.js, Tailwind CSS, Supabase, Stripe, TypeScript
+- **Design Software** : **Fusion 360**, **Nomad Sculpt**  
+- **Dev Stack** : Next.js, Tailwind CSS, Supabase, Stripe, TypeScript
+-  **LLM** : opencode cli (grok-fast + GPT-codex-5.2) + claude code cli(api)
 
 ---
 
-### 🚀 Projets clés
+### Main Projects
 
 | Projet | Description | Tech |
 |--------|-------------|------|
@@ -31,7 +35,7 @@
 
 ---
 
-### 📊 Stats & Activité
+### Stats
 
 <p align="center">
   <!-- GitHub Stats -->
