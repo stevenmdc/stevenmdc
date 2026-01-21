@@ -1,17 +1,13 @@
 <!-- 
   README personnalisé pour github.com/stevenmdc
-  ✨ Design + Code + Business autour du 3D printing
 -->
-
-<h1 align="center">Hi 👋, je suis Steven — Maker Full-Stack & Designer 3D</h1>
-<h3 align="center">Je crée des objets utiles, imprimables, et accessibles à tous 🖨️</h3>
 
 <p align="center">
   <a href="https://3dprint-ste.com" target="_blank">
     <img src="https://img.shields.io/badge/SaaS-3D_Print_Ste-ff6b35?style=for-the-badge&logo=shopify&logoColor=white" alt="3D Print Ste SaaS"/>
   </a>
   <a href="https://next-noir-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://trello-clone-ten-lac.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Outil_Trello-Clone-007bff?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Clone"/>
@@ -20,14 +16,8 @@
 
 ---
 
-### 🧠 À propos de moi
-
-- 🔧 **Designer 3D** avec **Blender** & **Fusion 360**  
-- 💻 **Développeur full-stack** : Next.js, Supabase, Stripe, OpenAI  
-- 🛍️ **Entrepreneur** : j’ai lancé [**3dprint-ste.com**](https://3dprint-ste.com) — une plateforme premium de fichiers `.stl` pratiques, fonctionnels et pensés pour la maison, l’atelier ou le bureau.  
-- 🎨 Passionné par l’**organisation créative**, les espaces DIY, et les outils qui rendent la fabrication accessible.
-
-> “Je ne conçois pas juste des objets — je résous des problèmes du quotidien avec du code et du filament.”
+- 🔧 **Design Software** : **Fusion 360**, **Nomad Sculpt**  
+- 💻 **Dev Stack** : Next.js, Tailwind CSS, Supabase, Stripe, TypeScript
 
 ---
 
@@ -50,7 +40,7 @@
 </p>
 
 <p align="center">
-  <!-- Vercel Deploy Badges (optionnel si tu veux les liens directs) -->
+  <!-- Vercel Deploy Badges -->
   <a href="https://vercel.com/stevenmdc/next-noir-portfolio">
     <img src="https://img.shields.io/badge/Vercel_Deploy-Portfolio-000000?style=flat&logo=vercel" />
   </a>
@@ -59,17 +49,14 @@
   </a>
 </p>
 
----
-
-### 🌐 Me suivre
-
-- 📸 [Instagram](https://instagram.com/...) *(à compléter)*  
-- 📌 [Pinterest](https://pinterest.com/...) *(à compléter)*  
-- ▶️ [YouTube](https://youtube.com/...) *(à compléter)*  
-- 💬 [X / Twitter](https://twitter.com/...) *(à compléter)*  
-
-> Nouveaux designs 3D chaque semaine → Abonne-toi sur [3dprint-ste.com](https://3dprint-ste.com) !
-
----
-
-✨ *“Code, créativité, et filament — c’est ma trinité.”*
+<p align="center">
+  <a href="https://instagram.com/stevenmadec" aria-label="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/stevenmadec" aria-label="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@code-ste" aria-label="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+</p>
