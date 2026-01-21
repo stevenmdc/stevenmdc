@@ -43,21 +43,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenmdc&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <!-- Vercel Deploy Badges -->
-  <a href="https://vercel.com/stevenmdc/next-noir-portfolio">
-    <img src="https://img.shields.io/badge/Vercel_Deploy-Portfolio-000000?style=flat&logo=vercel" />
-  </a>
-  <a href="https://vercel.com/stevenmdc/trello-clone-ten-lac">
-    <img src="https://img.shields.io/badge/Vercel_Deploy-Trello_Clone-007bff?style=flat&logo=vercel" />
-  </a>
-</p>
+---
 
 <p align="center">
   <a href="https://instagram.com/stevenmadec" aria-label="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/stevenmadec" aria-label="X (Twitter)">
+  <a href="https://x.com/stevenmadec" aria-label="X">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="https://youtube.com/@code-ste" aria-label="YouTube">
