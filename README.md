@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/SaaS-3D_Print_Ste-ff6b35?style=for-the-badge&logoColor=white" alt="3D Print Ste SaaS"/>
   </a>
   <a href="https://shop.3dprint-ste.com" target="_blank">
-    <img src="https://img.shields.io/badge/Shop-3D_Print_Ste-ff6b35?style=logo=shopify&logoColor=green" alt="3D Print Ste Shop"/>
+    <img src="https://img.shields.io/badge/Shop-3D_Print_Ste-ff6b35?style=for-the-badge&logo=shopify&logoColor=green" alt="3D Print Ste Shop"/>
   </a>
   <a href="https://next-noir-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Next.js-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
