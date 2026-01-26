@@ -21,7 +21,9 @@
 
 - **Design Software** : **Fusion 360**, **Nomad Sculpt**  
 - **Dev Stack** : Next.js, Tailwind CSS, Supabase, Stripe, TypeScript
--  **LLM** : opencode cli (grok-fast + GPT-codex-5.2) + claude code cli(api)
+-  **LLM** :
+-  - low-reasoning = opencode (grok-code-fast + gemini-3-flash)
+-  - high reasoning = codex GPT-5.2 / claude code 4.5
 
 ---
 
@@ -29,8 +31,8 @@
 
 | Projet | Description | Tech |
 |--------|-------------|------|
-| **[3D Print Ste](https://3dprint-ste.com)** | Plateforme SaaS de modèles 3D premium (10–90€) | Next.js, Stripe, Supabase, Admin Panel |
-| **[Portfolio Noir](https://next-noir-portfolio.vercel.app)** | Vitrine technique & créative en MDX | Next.js, MDX, Tailwind CSS |
+| **[3D Print Ste](https://3dprint-ste.com)** | SaaS 3D premium (19–89€) | Next.js, Stripe, Supabase, Admin Panel |
+| **[Portfolio Noir](https://next-noir-portfolio.vercel.app)** | nextjs portfolio & animation en MDX | Next.js, MDX, Tailwind CSS, Framer-motion |
 | **[Trello Clone](https://trello-clone-ten-lac.vercel.app)** | Outil de gestion perso avec IA (OpenAI) | Next.js, Zustand, OpenAI API |
 
 ---
@@ -46,9 +48,6 @@
 ---
 
 <p align="center">
-  <a href="https://instagram.com/stevenmadec" aria-label="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://x.com/stevenmadec" aria-label="X">
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
