@@ -17,17 +17,7 @@
   </a>
 </p>
 
----
-
-- **Design Software** : **Fusion 360**, **Nomad Sculpt**  
-- **Dev Stack** : Next.js, Tailwind CSS, Supabase, Stripe, TypeScript
--  **LLM** :
--  - low-reasoning = opencode (grok-code-fast + gemini-3-flash)
--  - high reasoning = codex GPT-5.2 / claude code 4.5
-
----
-
-### Main Projects
+### current Projects
 
 | Projet | Description | Tech |
 |--------|-------------|------|
@@ -43,15 +33,4 @@
   <!-- GitHub Stats -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stevenmdc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenmdc&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://x.com/stevenmadec" aria-label="X">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@code-ste" aria-label="YouTube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
-  </a>
 </p>
