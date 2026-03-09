@@ -49,8 +49,8 @@
 ### Connect
 
 <p align="left">
-  <a href="mailto:stevenmadec@live.fr">
-    <img src="https://img.shields.io/badge/Email-stevenmadec@live.fr-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:stevenmadec.gg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-stevenmadec.gg@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/stevenmadec">
     <img src="https://img.shields.io/badge/X-%40StevenMadec-000000?style=flat-square&logoColor=white" alt="X (Twitter)" />
