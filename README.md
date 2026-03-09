@@ -53,6 +53,6 @@
     <img src="https://img.shields.io/badge/Email-stevenmadec@live.fr-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/stevenmadec">
-    <img src="https://img.shields.io/badge/X-%40TON_PROFIL-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-%40StevenMadec-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
