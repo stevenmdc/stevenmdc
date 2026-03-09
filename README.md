@@ -46,35 +46,13 @@
 - 🌑 **[Portfolio Noir](https://next-noir-portfolio.vercel.app)** — Next.js portfolio with MDX articles & Framer Motion animations
 
 ---
-
-### Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stevenmdc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenmdc&layout=compact&theme=radical" />
-</p>
-
----
-
-### What I'm Building
-
-- 🚀 **SaaS products** — From idea to paying users, full stack solo
-- 🤖 **AI integrations** — OpenAI, Ollama, Claude in real-world apps
-- ⚡ **Rapid prototyping** — Full apps in days, not months
-- 🌐 **Interactive tools** — Visual editors, workflow builders, data viz
-
----
-
 ### Connect
 
 <p align="left">
-  <a href="https://next-noir-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="mailto:stevenmadec@live.fr">
+    <img src="https://img.shields.io/badge/Email-stevenmadec@live.fr-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://3dprint-ste.com" target="_blank">
-    <img src="https://img.shields.io/badge/3D_Print_Ste-ff6b35?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://shop.3dprint-ste.com" target="_blank">
-    <img src="https://img.shields.io/badge/Shop-4CAF50?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <a href="https://x.com/stevenmadec">
+    <img src="https://img.shields.io/badge/X-%40TON_PROFIL-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </p>
