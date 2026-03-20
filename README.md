@@ -28,9 +28,9 @@
 
 ### Current Projects
 
-- 🖨️ **[3D Print Ste](https://3dprint-ste.com)** — Premium 3D printing SaaS (19–89€/mo) · Next.js, Stripe, Supabase, Admin Panel, Resend
+- 🖨️ **[3D Print Ste](https://3dprint-ste.com)** — Premium 3D printing SaaS (19–89€/mth - yr) · Next.js, Stripe, Supabase, Admin Panel, Resend
 - 👜 **[3D Print Ste Shop](https://shop.3dprint-ste.com)** — Shopify 3D printed shop · Next.js, Shopify
-- 🔧 **[Code Ste](https://code-ste.vercel.app)** — Monthly/annual subscription app + GitHub organization private projects management
+- ⌨️ **[Code Ste](https://code-ste.vercel.app)** — GitHub org SaaS (99€/yr)· Next.js, Stripe, Github
 - 🎴 **[Sprite Animate](https://sprite-animate.vercel.app)** — Animate sprite sheets and export as GIF or MP4 (12 frames, 4×3 grid)
 - 🔀 **[React Workflow](https://react-work-flow-sable.vercel.app)** — Visual node connector / workflow builder app
 - 🎵 **[Spotify Clone + Ollama](https://github.com/stevenmdc/spotify-clone-local-ollama)** — Local Spotify clone with Ollama AI worker & runner integration
