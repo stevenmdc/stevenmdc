@@ -32,21 +32,21 @@
 - 👜 **[3D Print Ste Shop](https://shop.3dprint-ste.com)** — Shopify 3D printed shop · Next.js, Shopify
 - ⌨️ **[Code Ste](https://code-ste.vercel.app)** — GitHub org SaaS (99€/yr)· Next.js, Stripe, Github
 - 🎴 **[Sprite Animate](https://sprite-animate.vercel.app)** — Animate sprite sheets and export as GIF or MP4 (12 frames, 4×3 grid)
-- 🔀 **[React Workflow](https://react-work-flow-sable.vercel.app)** — Visual node connector / workflow builder app
+- 🔀 **[React Workflow](https://react-work-flow-sable.vercel.app)** — Visual node connector / workflow connectors app
 - 🎵 **[Spotify Clone + Ollama](https://github.com/stevenmdc/spotify-clone-local-ollama)** — Local Spotify clone with Ollama AI worker & runner integration
 - 📺 **[Netflix Clone + Ollama](https://github.com/stevenmdc/netflix-clone-local-ollama)** — Local Netflix clone with Ollama AI worker & runner integration
-- 📰 **[Claude Articles](https://claude-articles.vercel.app)** — AI-powered article .md reader + tables comparaison app
-- 📊 **[DCA Crypto Calculator](https://github.com/stevenmdc/dca-crypto-calculator)** — Visualize cryptos investment with initial capital + DCA 
+- 📰 **[Claude Articles](https://claude-articles.vercel.app)** — Ai powered article .md reader + tables comparaison app
+- 📊 **[DCA Crypto Calculator](https://github.com/stevenmdc/dca-crypto-calculator)** — DCA cryptos invest - reChart 
 
 ---
 
 ### Legacy Work
 
-- 🃏 **[Trello Clone](https://trello-clone-ten-lac.vercel.app)** — Personal weekly task management tool with AI (OpenAI API) · Next.js, Zustand
+- 🃏 **[Trello Clone](https://trello-clone-ten-lac.vercel.app)** — Personal weekly task management tool with AI · Next.js, supabase, drag & drop
 - 🌑 **[Portfolio Noir](https://next-noir-portfolio.vercel.app)** — Next.js portfolio with MDX articles & Framer Motion animations
 - 🚗 **[Tesla Clone](https://tesla-clone-code-ste.vercel.app)** — HTML - CSS - JS
 - 🚀 **[SpaceX Clone](https://github.com/stevenmdc/tesla-clone)** — HTML - CSS - JS
-- 👨‍💻 **[CodePen](https://codepen.io/codepen-ste)** — My codepen free-to-re-use
+- 👨‍💻 **[CodePen](https://codepen.io/codepen-ste)** — All my codepens since 2022 (free-to-re-use)
 ---
 ### Connect
 
