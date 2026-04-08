@@ -44,6 +44,7 @@
 
 - 🃏 **[Trello Clone](https://trello-clone-ten-lac.vercel.app)** — Personal weekly task management tool with AI · Next.js, supabase, drag & drop
 - 🌑 **[Portfolio Noir](https://next-noir-portfolio.vercel.app)** — Next.js portfolio with MDX articles & Framer Motion animations
+- 🗒️ **[resume-builder](https://cv-resume-builder-eight.vercel.app/)** — cv / resume builder with export .png · Next.js - tailwindcss 
 - 🚗 **[Tesla Clone](https://tesla-clone-code-ste.vercel.app)** — HTML - CSS - JS
 - 🚀 **[SpaceX Clone](https://github.com/stevenmdc/tesla-clone)** — HTML - CSS - JS
 - 👨‍💻 **[CodePen](https://codepen.io/codepen-ste)** — All my codepens since 2022 (free-to-re-use)
