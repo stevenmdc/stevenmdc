@@ -34,21 +34,30 @@
 - 🔀 **[React Workflow](https://react-work-flow-sable.vercel.app)** — Visual node connector / workflow connectors app
 - 🎵 **[Spotify Clone + Ollama](https://github.com/stevenmdc/spotify-clone-local-ollama)** — Local Spotify clone with Ollama AI worker & runner integration
 - 📺 **[Netflix Clone + Ollama](https://github.com/stevenmdc/netflix-clone-local-ollama)** — Local Netflix clone with Ollama AI worker & runner integration
-- 📰 **[Claude Articles](https://claude-articles.vercel.app)** — Ai powered article .md reader + tables comparaison app
-- 📊 **[DCA Crypto Calculator](https://github.com/stevenmdc/dca-crypto-calculator)** — DCA cryptos invest - reChart 
 
 ---
 
-### Legacy Work
+### Tools
+
+- 🎵 **[Audio visualizer](https://audio-visualizer-chi.vercel.app/)** — Audio visualizer with smooth waves animation · Next.js - framer-motion
+- 📰 **[Claude Articles](https://claude-articles.vercel.app)** — Claude Ai powered article .md reader + tables comparaison app
+- 📊 **[DCA Crypto Calculator](https://github.com/stevenmdc/dca-crypto-calculator)** — DCA cryptos invest - reChart 
+- 🃏 **[Cursor Sliders](https://github.com/stevenmdc/cursor-sliders-template)** — Magical cursor sliders meme template · Next.js - tailwindcss
+- 🎴 **[Sprite Animate](https://sprite-animate.vercel.app)** — Animate sprite sheets and export as GIF or MP4 (12 frames, 4×3 grid)
+- 🗒️ **[resume-builder](https://cv-resume-builder-eight.vercel.app/)** — cv / resume builder with export .png · Next.js - tailwindcss
+
+---
+
+### Legacy
 
 - 🃏 **[Trello Clone](https://trello-clone-ten-lac.vercel.app)** — Personal weekly task management tool with AI · Next.js, supabase, drag & drop
 - 🌑 **[Portfolio Noir](https://next-noir-portfolio.vercel.app)** — Next.js portfolio with MDX articles & Framer Motion animations
-- 🗒️ **[resume-builder](https://cv-resume-builder-eight.vercel.app/)** — cv / resume builder with export .png · Next.js - tailwindcss
-- 🎴 **[Sprite Animate](https://sprite-animate.vercel.app)** — Animate sprite sheets and export as GIF or MP4 (12 frames, 4×3 grid)
 - 🚗 **[Tesla Clone](https://tesla-clone-code-ste.vercel.app)** — HTML - CSS - JS
 - 🚀 **[SpaceX Clone](https://github.com/stevenmdc/tesla-clone)** — HTML - CSS - JS
 - 👨‍💻 **[CodePen](https://codepen.io/codepen-ste)** — All my codepens since 2022 (free-to-re-use)
+  
 ---
+
 ### Connect
 
 <p align="left">
