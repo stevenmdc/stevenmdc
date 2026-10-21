@@ -28,13 +28,13 @@
 
 ### Current Projects
 
-- 🖨️ **[3D Print Ste](https://3dprint-ste.com)** — Premium 3D printing SaaS (19–89€/mth - yr) · Next.js, Stripe, Supabase, Admin Panel, Resend
-- 👜 **[3D Print Ste Shop](https://shop.3dprint-ste.com)** — Shopify 3D printed shop · Next.js, Shopify
+- 🖨️ **[3D Print Ste](https://3dprint-ste.com)** — 3D printing SaaS · Next.js, Stripe, Supabase, Admin Panel, Resend
+- 👜 **[3D Print Ste Shop](https://shop.3dprint-ste.com)** — Shopify shop · Next.js, Shopify CMS
 - ⌨️ **[code Ste](https://code-ste.com)** — code-ste private repos organization · Next.js, Stripe, Github
 - 🔀 **[React Workflow](https://react-work-flow-sable.vercel.app)** — Visual node connector / workflow connectors app
-- 🎵 **[Spotify Clone + Ollama](https://github.com/stevenmdc/spotify-clone-local-ollama)** — Local Spotify clone with Ollama AI worker & runner integration
-- 📺 **[Netflix Clone + Ollama](https://github.com/stevenmdc/netflix-clone-local-ollama)** — Local Netflix clone with Ollama AI worker & runner integration
-
+- 🎵 **[Spotify Clone](https://github.com/stevenmdc/spotify-clone-local-ollama)** — Local Spotify clone
+- 📺 **[Netflix Clone](https://github.com/stevenmdc/netflix-clone-local-ollama)** — Local Netflix clone
+- 📱 **[iMessage Clone](https://i-message-clone-two.vercel.app/)** — iMessage IOS 27 Iphone 17 - conversations app · Next.js
 ---
 
 ### Tools
